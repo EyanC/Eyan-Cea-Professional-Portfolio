@@ -219,7 +219,7 @@ width: 370px;
 }
 .containerMainProject {
     display: flex;
-    flex-direction:column ;
+    flex-direction:row ;
     justify-content: space-between;
 }
 
